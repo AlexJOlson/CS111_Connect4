@@ -1,6 +1,7 @@
 # README.md
 
 "Connect 4" - CS111 Final Project
+
 by Anna Meyer & Alex Olson, Fall 2014
 
 Here is a little background about the project, how it's organized and how to play:
