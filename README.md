@@ -27,7 +27,7 @@ player and computer classes are in charge of implementing the player and compute
 turns. The list class stores the list representation of the board. It updates and
 manipulates this data to make it possible to check for four in a rows in every direction.
 
-• There are also several functions not part of a class. DrawButtons and addBoard design
+• There are also several functions that are not part of a class. DrawButtons and addBoard design
 the graphics window. ChooseColor lets the user choose what color tile to use. Find4(List)
 is implemented to check whether there are any four in a rows (if so, it will declare a
 winner) and find3(list) checks for three in a rows so that the computer can place its
