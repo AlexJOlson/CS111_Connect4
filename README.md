@@ -31,14 +31,14 @@ manipulates this data to make it possible to check for four in a rows in every d
 the graphics window. ChooseColor lets the user choose what color tile to use. Find4(List)
 is implemented to check whether there are any four in a rows (if so, it will declare a
 winner) and find3(list) checks for three in a rows so that the computer can place its
-next tile more intelligently. DiplayResult(window, outcome) prints the outcome of the
+next tile more intelligently. DisplayResult(window, outcome) prints the outcome of the
 game in the graphics window once someone has won, or when the the game is a tie. 
 The game function executes the bulk of the game by controlling when it is each player's turn 
 and calling on displayResult at the appropriate time.
 
 • Our program works! The computer is not incredibly smart but is much smarter than
 it was orignally. Rather than always playing a random tile, the computer checks whether or not 
-it can complete its own four in a row or block the player from getting a four in a row. 
+it can complete its own four in a row or block the human player from getting a four in a row. 
 
 ≈≈ INSTRUCTIONS FOR GAMEPLAY ≈≈
 
